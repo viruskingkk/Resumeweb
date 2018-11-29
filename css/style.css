@@ -53,7 +53,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #FF0;
+	color: #FFF;
 }
 
 h1 {
@@ -384,7 +384,7 @@ h2.menu-item:hover:after {
 .name-block-container h2 {
 	text-transform: capitalize;
 	font-weight: 700;
-	color: #00F;
+	color: #F93;
 	margin-bottom: 10px;
 	text-transform: uppercase;
 }
@@ -413,7 +413,7 @@ h2.menu-item:hover:after {
 
 .social a {
 	border: 2px solid #333;
-	color: #0FF;
+	color: #66F;
 	display: inline-block;
 	height: 35px;
 	width: 35px;
